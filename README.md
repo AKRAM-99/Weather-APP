@@ -1,4 +1,3 @@
-![Screenshot 2025-04-28 141642](https://github.com/user-attachments/assets/b64817b6-03cf-49c2-a0c4-b66e5c1b1408)
 # Weather Web App
 
 A simple and responsive weather web application that allows users to get real-time weather information for any city. The app uses the OpenWeatherMap API to fetch weather data such as temperature, humidity, and weather description.
@@ -20,6 +19,7 @@ A simple and responsive weather web application that allows users to get real-ti
 - **OpenWeatherMap API**: Used to fetch real-time weather data (API key required).
 
 ---
+![Screenshot 2025-04-28 141642](https://github.com/user-attachments/assets/b64817b6-03cf-49c2-a0c4-b66e5c1b1408)
 
 ## API Key Setup
 To use the OpenWeatherMap API, you'll need to sign up for an API key:
